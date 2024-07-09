@@ -66,9 +66,9 @@ const doLogin = () => {
   })
 }
 
-// 1. 用户名和密码 只需要通过简单的配置（看文档的方式 - 复杂功能通过多个不同组件拆解）
-// 2. 同意协议  自定义规则  validator:(rule,value,callback)=>{}
-// 3. 统一校验  通过调用form实例的方法 validate -> true
+
+// 1. 同意协议  自定义规则  validator:(rule,value,callback)=>{}
+// 2. 统一校验  通过调用form实例的方法 validate -> true
 </script>
 
 
